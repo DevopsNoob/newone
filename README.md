@@ -3,6 +3,3 @@ thanks
 
 Thanks
 
-Success
-
-Success
