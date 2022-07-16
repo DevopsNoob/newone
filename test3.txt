@@ -1,2 +1,4 @@
 this for test 3 file.
 for testing the conflict.
+this checking the conflict of git using merge command from merging the d1 to master with same file name and commit.
+
